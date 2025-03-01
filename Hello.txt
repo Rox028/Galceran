@@ -1,0 +1,18 @@
+What challenges did you face during this activity
+    => The challenges I face during this activity is that starting with Git is every confusing to me, 
+       specially understanding the command on what to do first, and sometimes I accidentally type an
+       incorrect commant spelling, like using "comit" instead of "commit". Just a simple mistake can cause
+       an errors that I had to troubleshoot.
+
+Which Git command was the most confusing?
+    => The most confusing Git command for me was the "git push". because without a proper initial commit or
+       without the actual files, there was nothing to push. The error message about the "src refspec main does not 
+       match any" was also confusing for me at first, but later on I learned what it meant that the branch did not have 
+       any commits to push.
+
+How can version control help in real-world software development?
+    => the version control can help in real-world software development especially in using Git, because it allows the 
+       team to work together on a same project. It can also tracks the every changes that is made to the code, making 
+       it easy to review the history, finding the bugs, and even revert to earlier versions if something goes wrong.
+       The developers can also work on adding ner features or finding and fixing the bugs in a separate branches, 
+       ensuring that the main codebase stays the same until the changes are fully tested and ready.
